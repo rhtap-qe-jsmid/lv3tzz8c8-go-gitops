@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lv3tzz8c8-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/lv3tzz8c8-go
